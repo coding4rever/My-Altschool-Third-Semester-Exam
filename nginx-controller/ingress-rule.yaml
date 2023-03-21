@@ -27,7 +27,7 @@ metadata:
     kubernetes.io/ingress.class: nginx 
 spec:
   rules:
-  - host: voting.nwokolo.live
+  - host: voting.kunlecoding.me
     http:
       path:
         backend:
