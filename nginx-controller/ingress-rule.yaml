@@ -8,7 +8,7 @@ metadata:
    # nginx.ingress.kubernetes.io/rewrite-target: /
 spec:
   rules:
-  - host: sock-app.nwokolo.live
+  - host: sock-shop-app.kunlecoding.me
     http:
       path:
         backend:
